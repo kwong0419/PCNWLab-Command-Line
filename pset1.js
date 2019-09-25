@@ -1,4 +1,4 @@
-/******************
+/****************** 
 PROBLEM 1:
 
 Follow the following steps ONLY using your command line:
