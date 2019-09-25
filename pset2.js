@@ -26,7 +26,7 @@ In this problem, you will be downloading some files from online, then creating a
 
 5. You should have the following commits:
 - git initialized
-- added app.js
+- added app.js 
 - added hello.html
 - created assets directory
 - added all images & memes
